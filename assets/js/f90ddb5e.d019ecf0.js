@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[30770],{97939:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/iscp","name":"ISCP","count":2,"permalink":"/iota-wiki/blog/tags/iscp"}')}}]);

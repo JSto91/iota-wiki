@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[82737],{37175:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/web-3","name":"Web3","count":1,"permalink":"/iota-wiki/blog/tags/web-3"}')}}]);
