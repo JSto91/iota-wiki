@@ -4,7 +4,7 @@
 module.exports = {
   title: 'IOTA Wiki',
   tagline: 'The complete reference for IOTA',
-  url: 'https://jsto.github.io',
+  url: 'https://jsto91.github.io',
   baseUrl: '/iota-wiki/',
   onBrokenLinks: 'log',
   onBrokenMarkdownLinks: 'log',
