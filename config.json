@@ -45,7 +45,8 @@
       "staticPath": "./documentation/static"
     },
     {
-      "repo": "https://github.com/iotaledger/identity.rs",
+      "repo": "https://github.com/JSto91/identity.rs",
+      "checkoutParams": ["--branch test/new-images"],
       "staticPath": "./documentation/static"
     },
     {
