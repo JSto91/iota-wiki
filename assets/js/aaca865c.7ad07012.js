@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[12529],{45310:function(a){a.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/mana","name":"Mana","count":3,"permalink":"/iota-wiki/blog/tags/mana"}')}}]);

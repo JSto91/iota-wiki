@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[46173],{80792:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/io-t","name":"IoT","count":2,"permalink":"/iota-wiki/blog/tags/io-t"}')}}]);

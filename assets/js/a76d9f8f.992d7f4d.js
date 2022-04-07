@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[21331],{63419:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/commmunity-treasury","name":"Commmunity Treasury","count":1,"permalink":"/iota-wiki/blog/tags/commmunity-treasury"}')}}]);
