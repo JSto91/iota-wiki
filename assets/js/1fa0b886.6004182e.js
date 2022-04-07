@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[67560],{60074:function(a){a.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/layer-one","name":"Layer One","count":3,"permalink":"/iota-wiki/blog/tags/layer-one"}')}}]);

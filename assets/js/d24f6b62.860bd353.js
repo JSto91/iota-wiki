@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[40252],{97666:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/economic","name":"Economic","count":1,"permalink":"/iota-wiki/blog/tags/economic"}')}}]);
