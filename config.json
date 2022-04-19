@@ -15,8 +15,8 @@
       "staticPath": "./static"
     },
     {
-      "repo": "https://github.com/dr-electron/wasp",
-      "checkoutParams": ["--branch patch-5"],
+      "repo": "https://github.com/iotaledger/wasp",
+      "checkoutParams": ["--branch develop"],
       "staticPath": "./documentation/static"
     },
     {
