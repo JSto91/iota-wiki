@@ -2,7 +2,7 @@
   "configFolder": ".github/workflows/",
   "content": [
     {
-      "repo": "https://github.com/iotaledger/bee",
+      "repo": "https://github.com/JSto91/bee",
       "checkoutParams": ["--branch dev"],
       "staticPath": "./documentation/static"
     },
@@ -40,7 +40,7 @@
       "staticPath": "./static"
     },
     {
-      "repo": "https://github.com/gohornet/hornet",
+      "repo": "https://github.com/JSto91/hornet",
       "checkoutParams": ["--branch mainnet"],
       "staticPath": "./documentation/static"
     },
