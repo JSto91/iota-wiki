@@ -20,7 +20,7 @@
       "staticPath": "./documentation/static"
     },
     {
-      "repo": "https://github.com/iotaledger/iota.rs",
+      "repo": "https://github.com/JSto91/iota.rs",
       "checkoutParams": ["--branch mainnet"],
       "staticPath": "./documentation/static"
     },
