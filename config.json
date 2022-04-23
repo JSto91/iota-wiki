@@ -15,7 +15,7 @@
       "staticPath": "./static"
     },
     {
-      "repo": "https://github.com/iotaledger/wasp",
+      "repo": "https://github.com/JSto91/wasp",
       "checkoutParams": ["--branch develop"],
       "staticPath": "./documentation/static"
     },
