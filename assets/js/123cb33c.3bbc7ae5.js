@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[29844],{49890:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/gossip","name":"Gossip","count":1,"permalink":"/iota-wiki/blog/tags/gossip"}')}}]);

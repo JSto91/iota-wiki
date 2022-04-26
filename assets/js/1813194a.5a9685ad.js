@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[61356],{36671:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/dlt","name":"DLT","count":1,"permalink":"/iota-wiki/blog/tags/dlt"}')}}]);
