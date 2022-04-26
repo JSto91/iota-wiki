@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[30699],{90598:function(a){a.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/tangle","name":"Tangle","count":1,"permalink":"/iota-wiki/blog/tags/tangle"}')}}]);

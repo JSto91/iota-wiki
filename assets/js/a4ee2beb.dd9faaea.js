@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[95522],{75913:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/ethereum","name":"Ethereum","count":1,"permalink":"/iota-wiki/blog/tags/ethereum"}')}}]);
