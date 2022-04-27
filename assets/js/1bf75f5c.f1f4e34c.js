@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[98427],{26549:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/iota-wiki","name":"IOTA-Wiki","count":1,"permalink":"/iota-wiki/blog/tags/iota-wiki"}')}}]);

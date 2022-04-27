@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[77846],{47318:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/coordicide","name":"Coordicide","count":2,"permalink":"/iota-wiki/blog/tags/coordicide"}')}}]);
