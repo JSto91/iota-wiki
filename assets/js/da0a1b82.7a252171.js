@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[99591],{1732:function(i){i.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/tokenization","name":"Tokenization","count":1,"permalink":"/iota-wiki/blog/tags/tokenization"}')}}]);

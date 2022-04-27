@@ -4,8 +4,8 @@
   <ShortName>IOTA Wiki</ShortName>
   <Description>Search IOTA Wiki</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://wiki.iota.org/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://wiki.iota.org/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://wiki.iota.org/opensearch.xml" />
-  <moz:SearchForm>https://wiki.iota.org/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://jsto91.github.io/iota-wiki/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://jsto91.github.io/iota-wiki/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://jsto91.github.io/iota-wiki/opensearch.xml" />
+  <moz:SearchForm>https://jsto91.github.io/iota-wiki/</moz:SearchForm>
 </OpenSearchDescription>

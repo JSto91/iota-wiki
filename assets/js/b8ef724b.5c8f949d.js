@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiota_wiki=self.webpackChunkiota_wiki||[]).push([[83825],{84774:function(a){a.exports=JSON.parse('{"allTagsPath":"/iota-wiki/blog/tags","slug":"/iota-wiki/blog/tags/metaverse","name":"Metaverse","count":1,"permalink":"/iota-wiki/blog/tags/metaverse"}')}}]);
