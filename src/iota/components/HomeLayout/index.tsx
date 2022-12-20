@@ -217,8 +217,8 @@ export default function HomeLayout() {
               <ThemedImage
                  alt="Nodes Setup"
                   sources={{
-                    light: require('@site/static/img/homepage/section_nodes_dark.png'),
-                    dark: require('@site/static/img/homepage/section_nodes_dark.png'),
+                    light: require('/static/img/homepage/section_nodes_dark.png'),
+                    dark: require('/static/img/homepage/section_nodes_dark.png'),
                   }}
                 />;
             </div>
