@@ -214,12 +214,7 @@ export default function HomeLayout() {
               </div>
             </div>
             <div className='spaceholder__card__img'>
-              <ThemedImage alt="Nodes Setup"
-                src={{
-                  light: NodesImg,
-                  dark: NodesImgDark,
-                }}
-              />
+              <img src={NodesImg} />;
             </div>
           </div>
         </HomepageSection>
