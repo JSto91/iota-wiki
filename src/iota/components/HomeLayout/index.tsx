@@ -1,5 +1,5 @@
-import NodesImg from '@site/static/img/homepage/section_nodes.png';
-import NodesImgDark from '@site/static/img/homepage/section_nodes_dark.png';
+import NodesImg from './static/img/homepage/section_nodes.png';
+import NodesImgDark from './static/img/homepage/section_nodes_dark.png';
 import ThemedImage from '@theme/ThemedImage';
 import React, { FC } from 'react';
 import Layout from '@theme/Layout';
@@ -217,8 +217,8 @@ export default function HomeLayout() {
               <ThemedImage
                  alt="Nodes Setup"
                   sources={{
-                    light: require('/static/img/homepage/section_nodes_dark.png'),
-                    dark: require('/static/img/homepage/section_nodes_dark.png'),
+                    light: NodesImg,
+                    dark: NodesImgDark,
                   }}
                 />;
             </div>
