@@ -1,6 +1,3 @@
-import NodesImg from './static/img/homepage/section_nodes.png';
-import NodesImgDark from './static/img/homepage/section_nodes_dark.png';
-import ThemedImage from '@theme/ThemedImage';
 import React, { FC } from 'react';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
@@ -20,6 +17,9 @@ import {
   Tips,
   Tutorials,
 } from '@site/src/common/icons';
+import NodesImg from '@site/static/img/homepage/section_nodes.png';
+import NodesImgDark from '@site/static/img/homepage/section_nodes_dark.png';
+import ThemedImage from '@theme/ThemedImage';
 import CoreLibrariesSection from './CoreLibrariesSection';
 import AppLibrariesSection from './AppLibrariesSection';
 import FeaturedSlider from '@site/src/common/components/FeaturedSlider';
